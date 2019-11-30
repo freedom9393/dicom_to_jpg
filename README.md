@@ -1,1 +1,1 @@
-Note: This repository is for converting .dcm (dicom) files to .jpg file using Python
+Note: This repository is for converting .dcm (dicom) files to .jpg (grayscale) file using Python
