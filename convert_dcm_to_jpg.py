@@ -5,6 +5,7 @@ import numpy as np
 import warnings
 warnings.filterwarnings("ignore")
 
+# Please change following lines
 # Folder path for .dcm images
 in_path = "D:\\Projects\\Proba\\DCM"
 # Folder path for storing .jpg images (it will be created if it doesn't exist)
