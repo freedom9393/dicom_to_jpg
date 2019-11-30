@@ -1,0 +1,1 @@
+Note: This repository is for converting .dcm (dicom) files to .jpg file using Python
